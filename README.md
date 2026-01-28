@@ -68,7 +68,7 @@ This project compares **resume keywords** with **job description keywords** and 
 
 ## 🏁 Author
 
-**Nitin**  
+**Nitin Singh**  
 B.Tech CSE Student  
 Python & DSA Beginner Project  
 
